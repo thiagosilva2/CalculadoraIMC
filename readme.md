@@ -1,6 +1,7 @@
 Criei esse mini projeto (Calculadora - IMC), baseado em um tutorial.
 
 Link do tutorial: https://www.youtube.com/watch?v=RacwEvoTz_Y
+Link do meu projeto: https://thiagosilva2.github.io/CalculadoraIMC/
 
 # Projeto Calculadora IMC utilizando HTML, CSS e JavaScript
 Pude aprender a criar um mini formulário para receber os valores usando a estruturação de página em html
